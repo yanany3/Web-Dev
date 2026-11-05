@@ -38,6 +38,6 @@ div{
 #main_container{
     font-size: 24pt;
     font-family: Arial;
-    background-color: rgb(0,0,255)
-    
+    background-color: rgb(0,0,255);
+    color: white;
 }
